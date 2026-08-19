@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Alphabetical list of books on LLMs. Each cover/title links to more information about the book.",
-      "items": [],
-      "title": "Books:"
-    },
-    {
-      "description": "Do you have ideas on how we make this list more awesome?\nEmail any time: Jason.Brownlee05@gmail.com\nDisclaimer: As an Amazon Associate I earn from qualifying purchases. This means that when you buy through my links, I may earn a commission.",
-      "items": [],
-      "title": "Make The List Better"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T13:15:34.534Z",
+    "last_updated": "2026-08-19T12:40:13.221Z",
     "original_repository": "Jason2Brownlee/awesome-llm-books",
+    "original_repository_id": 903548628,
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
     "enhanced_repository": "enhansome/enhansome-llm-books",
     "enhanced_repository_description": null,
