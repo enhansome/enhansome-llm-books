@@ -1,7 +1,254 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Alphabetical list of books on LLMs. Each cover/title links to more information about the book.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "AI Agents in ActionAuthors: Micheal LanhamPublisher: Manning, 2025Star Rating: 4.1 on Amazon, 3.3 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 720822252,
+            "language": "HTML",
+            "last_commit": "2025-05-25T16:00:53Z",
+            "owner": "cxbxmxcx",
+            "repo": "GPT-Agents",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "AI EngineeringSubtitle: Building Applications with Foundation ModelsAuthors: Chip HuyenPublisher: O'Reilly, 2025Star Rating: 4.7 on Amazon, 4.46 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898102196,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-03T07:04:59Z",
+            "owner": "chiphuyen",
+            "repo": "aie-book",
+            "stars": 17130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Build a Large Language ModelSubtitle: (From Scratch)Authors: Sebastian RaschkaPublisher: Manning, 2024Star Rating: 4.6 on Amazon, 4.62 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669879380,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T13:50:37Z",
+            "owner": "rasbt",
+            "repo": "LLMs-from-scratch",
+            "stars": 103640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Building LLM Powered ApplicationsSubtitle: Create intelligent apps and agents with large language modelsAuthors: Valentina AltoPublisher: Packt, 2024Star Rating: 4.2 on Amazon, 3.54 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671857054,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-15T13:52:42Z",
+            "owner": "PacktPublishing",
+            "repo": "Building-LLM-Powered-Applications",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Developing Apps with GPT-4 and ChatGPTSubtitle: Build Intelligent Chatbots, Content Generators, and MoreAuthors: Olivier Caelen and Marie-Alice BletePublisher: O'Reilly, 2023Star Rating: 4.1 on Amazon, 3.67 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629083458,
+            "language": "Python",
+            "last_commit": "2024-09-17T15:02:20Z",
+            "owner": "malywut",
+            "repo": "gpt_examples",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Generative AI on AWSSubtitle: Building Context-Aware Multimodal Reasoning ApplicationsAuthors: Chris Fregly, Antje Barth and Shelbee Eigenbrode Publisher: O'Reilly, 2023Star Rating: 4.4 on Amazon, 4.33 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682750018,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-09T18:58:21Z",
+            "owner": "generative-ai-on-aws",
+            "repo": "generative-ai-on-aws",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Generative AI with LangChainSubtitle: Build large language model (LLM) apps with Python, ChatGPT, and other LLMsAuthors: Ben AuffarthPublisher: Packt, 2023Star Rating: 4.3 on Amazon, 3.58 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665164787,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-14T08:45:56Z",
+            "owner": "benman1",
+            "repo": "generative_ai_with_langchain",
+            "stars": 1410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Hands-On Large Language ModelsSubtitle: Language Understanding and GenerationAuthors: Jay Alammar and Maarten GrootendorstPublisher: O'Reilly, 2024Star Rating: 4.7 on Amazon, 4.33 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 821372392,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-24T10:20:08Z",
+            "owner": "HandsOnLLM",
+            "repo": "Hands-On-Large-Language-Models",
+            "stars": 28571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Large Language ModelsSubtitle: A Deep Dive: Bridging Theory and PracticeAuthors: Uday Kamath, Kevin Keenan, Garrett Somers, and Sarah SorensonPublisher: Springer, 2024Star Rating: 4.4 on Amazon, 4.33 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810437754,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-19T16:47:13Z",
+            "owner": "springer-llms-deep-dive",
+            "repo": "llms-deep-dive-tutorials",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "LLM Engineer's HandbookSubtitle: Master the art of engineering large language models from concept to productionAuthors: Paul Iusztin and Maxime LabonnePublisher: Packt, 2024Star Rating: 4.6 on Amazon, 3.85 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784183059,
+            "language": "Python",
+            "last_commit": "2026-04-22T08:25:03Z",
+            "owner": "PacktPublishing",
+            "repo": "LLM-Engineers-Handbook",
+            "stars": 5289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "LLMs in ProductionSubtitle: From language models to successful productsAuthors: Christopher Brousseau and Matthew SharpPublisher: Manning, 2025Star Rating: 4.6 on Amazon, 4.05 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655489188,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-29T21:35:37Z",
+            "owner": "IMJONEZZ",
+            "repo": "LLMs-in-Production",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Natural Language Processing with TransformersSubtitle: Building Language Applications with Hugging FaceAuthors: Lewis Tunstall, Leandro von Werra and Thomas WolfPublisher: O'Reilly, 2022Star Rating: 4.6 on Amazon, 4.39 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422121708,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-29T12:54:09Z",
+            "owner": "nlp-with-transformers",
+            "repo": "notebooks",
+            "stars": 4798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Prompt Engineering for Generative AISubtitle: Future-Proof Inputs for Reliable AI OutputsAuthors: James Phoenix and Mike TaylorPublisher: O'Reilly, 2024Star Rating: 4.5 on Amazon, 3.62 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631928110,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-27T09:01:25Z",
+            "owner": "BrightPool",
+            "repo": "prompt-engineering-for-generative-ai-examples",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "Quick Start Guide to Large Language ModelsSubtitle: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AIAuthors: Sinan Ozdemir Publisher: Addison-Wesley, 2024Star Rating: 4.4 on Amazon, 3.64 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 651139866,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-07T17:56:22Z",
+            "owner": "sinanuozdemir",
+            "repo": "quick-start-guide-to-llms",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "RAG-Driven Generative AISubtitle: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and PineconeAuthors: Denis RothmanPublisher: Packt, 2024Star Rating: 4.1 on Amazon, 3.72 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 789098173,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-23T15:31:25Z",
+            "owner": "Denis2054",
+            "repo": "RAG-Driven-Generative-AI",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Project",
+          "description": "The Hundred-Page Language Models BookSubtitle: Hands-on with PyTorchAuthors: Andriy BurkovPublisher: True Positive Inc., 2025Star Rating: 4.8 on Amazon, 4.5 on Goodreads Links: Amazon, Goodreads, Publisher, GitHub Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 821198343,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-08T21:14:56Z",
+            "owner": "aburkov",
+            "repo": "theLMbook",
+            "stars": 2178
+          }
+        }
+      ],
+      "title": "Books:"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T13:27:55.892Z",
+    "last_updated": "2026-08-24T14:03:33.058Z",
     "original_repository": "Jason2Brownlee/awesome-llm-books",
     "original_repository_id": 903548628,
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
