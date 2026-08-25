@@ -15,7 +15,7 @@
             "last_commit": "2025-05-25T16:00:53Z",
             "owner": "cxbxmxcx",
             "repo": "GPT-Agents",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17130
+            "stars": 17135
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T13:50:37Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103640
+            "stars": 103709
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28571
+            "stars": 28580
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-22T08:25:03Z",
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5289
+            "stars": 5290
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-05-29T12:54:09Z",
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4798
+            "stars": 4799
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-02-08T21:14:56Z",
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2178
+            "stars": 2179
           }
         }
       ],
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:33.058Z",
+    "last_updated": "2026-08-25T05:56:12.779Z",
     "original_repository": "Jason2Brownlee/awesome-llm-books",
     "original_repository_id": 903548628,
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
