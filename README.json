@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17135
+            "stars": 17139
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T13:50:37Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103709
+            "stars": 103741
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T08:45:56Z",
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1410
+            "stars": 1409
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28580
+            "stars": 28593
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:12.779Z",
+    "last_updated": "2026-08-25T13:25:30.177Z",
     "original_repository": "Jason2Brownlee/awesome-llm-books",
     "original_repository_id": 903548628,
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
