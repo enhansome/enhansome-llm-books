@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17139
+            "stars": 17147
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T13:50:37Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103741
+            "stars": 103821
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T08:45:56Z",
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1409
+            "stars": 1411
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28593
+            "stars": 28616
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-22T08:25:03Z",
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5290
+            "stars": 5294
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-05-29T12:54:09Z",
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4799
+            "stars": 4800
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-05-27T09:01:25Z",
             "owner": "BrightPool",
             "repo": "prompt-engineering-for-generative-ai-examples",
-            "stars": 466
+            "stars": 467
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:25:30.177Z",
+    "last_updated": "2026-08-26T13:31:05.567Z",
     "original_repository": "Jason2Brownlee/awesome-llm-books",
     "original_repository_id": 903548628,
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
