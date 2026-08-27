@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17147
+            "stars": 17161
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 669879380,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T13:50:37Z",
+            "last_commit": "2026-08-26T22:54:48Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103821
+            "stars": 103886
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-12-15T13:52:42Z",
             "owner": "PacktPublishing",
             "repo": "Building-LLM-Powered-Applications",
-            "stars": 418
+            "stars": 419
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28616
+            "stars": 28654
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-22T08:25:03Z",
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5294
+            "stars": 5300
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-05-29T12:54:09Z",
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4800
+            "stars": 4801
           }
         },
         {
@@ -248,9 +248,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:31:05.567Z",
-    "original_repository": "Jason2Brownlee/awesome-llm-books",
-    "original_repository_id": 903548628,
+    "last_updated": "2026-08-27T11:52:15.348Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 903548628,
+      "language": null,
+      "last_commit": "2025-10-24T23:04:42Z",
+      "owner": "Jason2Brownlee",
+      "repo": "awesome-llm-books",
+      "stars": 2271
+    },
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
     "enhanced_repository": "enhansome/enhansome-llm-books",
     "enhanced_repository_description": null,
