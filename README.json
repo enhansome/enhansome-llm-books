@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17161
+            "stars": 17164
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-26T22:54:48Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103886
+            "stars": 103913
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-10-09T18:58:21Z",
             "owner": "generative-ai-on-aws",
             "repo": "generative-ai-on-aws",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28654
+            "stars": 28683
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:15.348Z",
+    "last_updated": "2026-08-27T22:26:40.961Z",
     "original_repository_info": {
       "archived": false,
       "id": 903548628,
@@ -256,7 +256,7 @@
       "last_commit": "2025-10-24T23:04:42Z",
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2271
+      "stars": 2273
     },
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
     "enhanced_repository": "enhansome/enhansome-llm-books",
