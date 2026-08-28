@@ -16,7 +16,8 @@
             "owner": "cxbxmxcx",
             "repo": "GPT-Agents",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-03T07:04:59Z",
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17164
-          }
+            "stars": 17175
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-26T22:54:48Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103913
-          }
+            "stars": 103956
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "PacktPublishing",
             "repo": "Building-LLM-Powered-Applications",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "malywut",
             "repo": "gpt_examples",
             "stars": 682
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "generative-ai-on-aws",
             "repo": "generative-ai-on-aws",
             "stars": 645
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-14T08:45:56Z",
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1411
-          }
+            "stars": 1412
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28683
-          }
+            "stars": 28720
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "springer-llms-deep-dive",
             "repo": "llms-deep-dive-tutorials",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-04-22T08:25:03Z",
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5300
-          }
+            "stars": 5301
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "IMJONEZZ",
             "repo": "LLMs-in-Production",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2026-05-29T12:54:09Z",
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4801
-          }
+            "stars": 4803
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "BrightPool",
             "repo": "prompt-engineering-for-generative-ai-examples",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "sinanuozdemir",
             "repo": "quick-start-guide-to-llms",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2025-09-23T15:31:25Z",
             "owner": "Denis2054",
             "repo": "RAG-Driven-Generative-AI",
-            "stars": 621
-          }
+            "stars": 622
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         },
         {
           "node_type": "item",
@@ -240,15 +255,16 @@
             "last_commit": "2026-02-08T21:14:56Z",
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2179
-          }
+            "stars": 2181
+          },
+          "first_seen": "2026-08-28T22:29:44.679Z"
         }
       ],
       "title": "Books:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:26:40.961Z",
+    "last_updated": "2026-08-28T22:29:44.679Z",
     "original_repository_info": {
       "archived": false,
       "id": 903548628,
@@ -256,7 +272,7 @@
       "last_commit": "2025-10-24T23:04:42Z",
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2273
+      "stars": 2276
     },
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
     "enhanced_repository": "enhansome/enhansome-llm-books",
