@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the book GPT-Agents, published by Manning Publications",
+            "homepage": null,
             "id": 720822252,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-05-25T16:00:53Z",
+            "open_issues": 5,
             "owner": "cxbxmxcx",
             "repo": "GPT-Agents",
-            "stars": 263
+            "stars": 263,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+            "homepage": null,
             "id": 898102196,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-07-03T07:04:59Z",
+            "open_issues": 21,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17175
+            "stars": 17176,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -42,12 +52,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "homepage": "https://amzn.to/4fqvn0D",
             "id": 669879380,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:54:48Z",
+            "open_issues": 2,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103956
+            "stars": 103963,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "attention-mechanism",
+              "deep-learning",
+              "finetuning",
+              "from-scratch",
+              "generative-ai",
+              "gpt",
+              "instruction-tuning",
+              "language-model",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "natural-language-processing",
+              "pretraining",
+              "python",
+              "pytorch",
+              "tokenizer",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -58,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building Large Language Model Applications, Published by Packt",
+            "homepage": null,
             "id": 671857054,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-12-15T13:52:42Z",
+            "open_issues": 6,
             "owner": "PacktPublishing",
             "repo": "Building-LLM-Powered-Applications",
-            "stars": 419
+            "stars": 419,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 629083458,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-17T15:02:20Z",
+            "open_issues": 1,
             "owner": "malywut",
             "repo": "gpt_examples",
-            "stars": 682
+            "stars": 682,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative AI on AWS",
+            "homepage": null,
             "id": 682750018,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2024-10-09T18:58:21Z",
+            "open_issues": 3,
             "owner": "generative-ai-on-aws",
             "repo": "generative-ai-on-aws",
-            "stars": 645
+            "stars": 645,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -106,12 +156,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain.",
+            "homepage": "https://amzn.to/4dErkya",
             "id": 665164787,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-14T08:45:56Z",
+            "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1412
+            "stars": 1413,
+            "topics": [
+              "agent",
+              "chatgpt",
+              "claude",
+              "claude-3-5-sonnet",
+              "deepseek",
+              "deepseek-r1",
+              "gpt",
+              "gpt-4o",
+              "huggingface",
+              "langchain",
+              "langgraph",
+              "llamacpp",
+              "llms",
+              "ollama",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -122,12 +193,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+            "homepage": "https://www.llm-book.com/",
             "id": 821372392,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T10:20:08Z",
+            "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28720
+            "stars": 28724,
+            "topics": [
+              "artificial-intelligence",
+              "book",
+              "large-language-models",
+              "llm",
+              "llms",
+              "oreilly",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -138,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 810437754,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-09-19T16:47:13Z",
+            "open_issues": 0,
             "owner": "springer-llms-deep-dive",
             "repo": "llms-deep-dive-tutorials",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -154,12 +243,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
+            "homepage": "https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/",
             "id": 784183059,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T08:25:03Z",
+            "open_issues": 35,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5301
+            "stars": 5301,
+            "topics": [
+              "aws",
+              "fine-tuning-llm",
+              "genai",
+              "llm",
+              "llm-evaluation",
+              "llmops",
+              "ml-system-design",
+              "mlops",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -170,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repo associated with the Manning Publication",
+            "homepage": null,
             "id": 655489188,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-29T21:35:37Z",
+            "open_issues": 0,
             "owner": "IMJONEZZ",
             "repo": "LLMs-in-Production",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -186,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter notebooks for the Natural Language Processing with Transformers book",
+            "homepage": "https://transformersbook.com/",
             "id": 422121708,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T12:54:09Z",
+            "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4803
+            "stars": 4803,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -202,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 631928110,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-05-27T09:01:25Z",
+            "open_issues": 4,
             "owner": "BrightPool",
             "repo": "prompt-engineering-for-generative-ai-examples",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -218,12 +337,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Official Repo for \"Quick Start Guide to Large Language Models\"",
+            "homepage": "https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568",
             "id": 651139866,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-10-07T17:56:22Z",
+            "open_issues": 3,
             "owner": "sinanuozdemir",
             "repo": "quick-start-guide-to-llms",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "agents",
+              "ai",
+              "bert",
+              "chatgpt",
+              "claude",
+              "deepseek",
+              "distillation",
+              "generative-ai",
+              "gpt",
+              "llama-4",
+              "llm",
+              "machine-learning",
+              "multimodal",
+              "nlp",
+              "quantization",
+              "rag",
+              "rlhf",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -234,12 +377,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides programs to build Retrieval Augmented Generation (RAG) code for Generative AI with LlamaIndex, Deep Lake, and Pinecone leveraging the power of OpenAI and Hugging Face models for generation and evaluation.",
+            "homepage": null,
             "id": 789098173,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-09-23T15:31:25Z",
+            "open_issues": 0,
             "owner": "Denis2054",
             "repo": "RAG-Driven-Generative-AI",
-            "stars": 622
+            "stars": 622,
+            "topics": [
+              "advanced-rag",
+              "chroma",
+              "chromadb",
+              "embedding-models",
+              "fine-tuning",
+              "gpt-4o-mini",
+              "gpt4-omni",
+              "grok",
+              "huggingface",
+              "indexing-querying",
+              "llama",
+              "llama-index",
+              "multimodal",
+              "openai-api",
+              "pinecone",
+              "rag",
+              "scaling",
+              "vision-transformer",
+              "xai-grok"
+            ]
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         },
@@ -250,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repository for The Hundred-Page Language Models Book by Andriy Burkov",
+            "homepage": "https://www.thelmbook.com",
             "id": 821198343,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-02-08T21:14:56Z",
+            "open_issues": 13,
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2181
+            "stars": 2181,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
         }
@@ -264,15 +437,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:29:44.679Z",
+    "last_updated": "2026-08-29T04:27:42.589Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome LLM Books: Curated list of books on Large Language Models",
+      "homepage": null,
       "id": 903548628,
       "language": null,
+      "license": null,
       "last_commit": "2025-10-24T23:04:42Z",
+      "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2276
+      "stars": 2276,
+      "topics": [
+        "awesome-list",
+        "books",
+        "gpt",
+        "llm-book",
+        "llms"
+      ]
     },
     "original_repository_sha": "96baaac10e96e19487f4d50b41dbecd24b978876",
     "enhanced_repository": "enhansome/enhansome-llm-books",
