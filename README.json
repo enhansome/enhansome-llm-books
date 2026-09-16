@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17446,
+            "stars": 17457,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -57,11 +57,11 @@
             "id": 669879380,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T20:36:18Z",
+            "last_commit": "2026-09-16T14:43:17Z",
             "open_issues": 1,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 105018,
+            "stars": 105086,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1420,
+            "stars": 1421,
             "topics": [
               "agent",
               "chatgpt",
@@ -202,7 +202,7 @@
             "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29120,
+            "stars": 29134,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 35,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5334,
+            "stars": 5336,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -304,7 +304,7 @@
             "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4814,
+            "stars": 4815,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:09:32.854Z",
+    "last_updated": "2026-09-16T17:09:55.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
