@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17769,
+            "stars": 17776,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 106266,
+            "stars": 106326,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -202,7 +202,7 @@
             "open_issues": 41,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29544,
+            "stars": 29555,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:25:59.618Z",
+    "last_updated": "2026-10-10T17:24:12.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2398,
+      "stars": 2399,
       "topics": [
         "awesome-list",
         "books",
