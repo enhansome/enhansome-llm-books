@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "cxbxmxcx",
             "repo": "GPT-Agents",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17824,
+            "stars": 17850,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 106608,
+            "stars": 106663,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -199,10 +199,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-04-24T10:20:08Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29598,
+            "stars": 29646,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5379,
+            "stars": 5382,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -304,7 +304,7 @@
             "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4827,
+            "stars": 4829,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -427,7 +427,7 @@
             "open_issues": 13,
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2186,
+            "stars": 2187,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:12:19.190Z",
+    "last_updated": "2026-10-16T16:48:28.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
