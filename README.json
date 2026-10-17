@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17850,
+            "stars": 17897,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 106663,
+            "stars": 106720,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -102,7 +102,7 @@
             "open_issues": 6,
             "owner": "PacktPublishing",
             "repo": "Building-LLM-Powered-Applications",
-            "stars": 421,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "agent",
               "chatgpt",
@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29646,
+            "stars": 29735,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:48:28.865Z",
+    "last_updated": "2026-10-17T15:45:12.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
