@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17911,
+            "stars": 17927,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 106792,
+            "stars": 106874,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1440,
+            "stars": 1442,
             "topics": [
               "agent",
               "chatgpt",
@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29763,
+            "stars": 29778,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5385,
+            "stars": 5389,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -325,7 +325,7 @@
             "open_issues": 4,
             "owner": "BrightPool",
             "repo": "prompt-engineering-for-generative-ai-examples",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "Denis2054",
             "repo": "RAG-Driven-Generative-AI",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "advanced-rag",
               "chroma",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:01:00.235Z",
+    "last_updated": "2026-10-19T18:45:55.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2407,
+      "stars": 2409,
       "topics": [
         "awesome-list",
         "books",
