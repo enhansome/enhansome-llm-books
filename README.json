@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17927,
+            "stars": 17934,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 106874,
+            "stars": 106939,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -123,7 +123,7 @@
             "open_issues": 1,
             "owner": "malywut",
             "repo": "gpt_examples",
-            "stars": 684,
+            "stars": 685,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -144,7 +144,7 @@
             "open_issues": 3,
             "owner": "generative-ai-on-aws",
             "repo": "generative-ai-on-aws",
-            "stars": 648,
+            "stars": 647,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -202,7 +202,7 @@
             "open_issues": 42,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29778,
+            "stars": 29794,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5389,
+            "stars": 5390,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -304,7 +304,7 @@
             "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4829,
+            "stars": 4830,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "Denis2054",
             "repo": "RAG-Driven-Generative-AI",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "advanced-rag",
               "chroma",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:45:55.908Z",
+    "last_updated": "2026-10-20T17:23:01.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2409,
+      "stars": 2410,
       "topics": [
         "awesome-list",
         "books",
