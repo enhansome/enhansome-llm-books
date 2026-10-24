@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 17977,
+            "stars": 17986,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 107151,
+            "stars": 107207,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -144,7 +144,7 @@
             "open_issues": 3,
             "owner": "generative-ai-on-aws",
             "repo": "generative-ai-on-aws",
-            "stars": 647,
+            "stars": 646,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -199,10 +199,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-04-24T10:20:08Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29888,
+            "stars": 29902,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -231,7 +231,7 @@
             "open_issues": 0,
             "owner": "springer-llms-deep-dive",
             "repo": "llms-deep-dive-tutorials",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -304,7 +304,7 @@
             "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4830,
+            "stars": 4832,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -427,7 +427,7 @@
             "open_issues": 13,
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2190,
+            "stars": 2191,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:18:59.445Z",
+    "last_updated": "2026-10-24T16:07:03.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2411,
+      "stars": 2412,
       "topics": [
         "awesome-list",
         "books",
