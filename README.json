@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 18076,
+            "stars": 18114,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 107350,
+            "stars": 107405,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -102,7 +102,7 @@
             "open_issues": 6,
             "owner": "PacktPublishing",
             "repo": "Building-LLM-Powered-Applications",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -199,10 +199,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-04-24T10:20:08Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29921,
+            "stars": 29930,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5399,
+            "stars": 5401,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:44:25.693Z",
+    "last_updated": "2026-10-27T18:07:43.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2416,
+      "stars": 2417,
       "topics": [
         "awesome-list",
         "books",
