@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 18114,
+            "stars": 18147,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -58,10 +58,10 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T14:55:52Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 107405,
+            "stars": 107450,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1446,
+            "stars": 1448,
             "topics": [
               "agent",
               "chatgpt",
@@ -202,7 +202,7 @@
             "open_issues": 49,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29930,
+            "stars": 29937,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5401,
+            "stars": 5403,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:07:43.065Z",
+    "last_updated": "2026-10-28T18:24:05.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2417,
+      "stars": 2418,
       "topics": [
         "awesome-list",
         "books",
