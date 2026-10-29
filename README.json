@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "cxbxmxcx",
             "repo": "GPT-Agents",
-            "stars": 263,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 18147,
+            "stars": 18162,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -58,10 +58,10 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T14:55:52Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 107450,
+            "stars": 107504,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "benman1",
             "repo": "generative_ai_with_langchain",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "agent",
               "chatgpt",
@@ -202,7 +202,7 @@
             "open_issues": 49,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29937,
+            "stars": 29954,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5403,
+            "stars": 5404,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -283,7 +283,7 @@
             "open_issues": 0,
             "owner": "IMJONEZZ",
             "repo": "LLMs-in-Production",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -304,7 +304,7 @@
             "open_issues": 95,
             "owner": "nlp-with-transformers",
             "repo": "notebooks",
-            "stars": 4832,
+            "stars": 4833,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:24:05.732Z",
+    "last_updated": "2026-10-29T18:34:12.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
