@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 18171,
+            "stars": 18181,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 107560,
+            "stars": 107600,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -202,7 +202,7 @@
             "open_issues": 49,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29964,
+            "stars": 29971,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5408,
+            "stars": 5410,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -283,7 +283,7 @@
             "open_issues": 0,
             "owner": "IMJONEZZ",
             "repo": "LLMs-in-Production",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:06:32.846Z",
+    "last_updated": "2026-10-31T17:17:32.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2436,
+      "stars": 2437,
       "topics": [
         "awesome-list",
         "books",
