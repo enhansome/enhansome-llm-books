@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "chiphuyen",
             "repo": "aie-book",
-            "stars": 18279,
+            "stars": 18289,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 108242,
+            "stars": 108306,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -202,7 +202,7 @@
             "open_issues": 50,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 30119,
+            "stars": 30125,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -252,7 +252,7 @@
             "open_issues": 36,
             "owner": "PacktPublishing",
             "repo": "LLM-Engineers-Handbook",
-            "stars": 5427,
+            "stars": 5428,
             "topics": [
               "aws",
               "fine-tuning-llm",
@@ -386,7 +386,7 @@
             "open_issues": 0,
             "owner": "Denis2054",
             "repo": "RAG-Driven-Generative-AI",
-            "stars": 633,
+            "stars": 635,
             "topics": [
               "advanced-rag",
               "chroma",
@@ -427,7 +427,7 @@
             "open_issues": 13,
             "owner": "aburkov",
             "repo": "theLMbook",
-            "stars": 2193,
+            "stars": 2194,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:44.679Z"
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:44:55.405Z",
+    "last_updated": "2026-11-12T20:10:53.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Books: Curated list of books on Large Language Models",
@@ -449,7 +449,7 @@
       "open_issues": 0,
       "owner": "Jason2Brownlee",
       "repo": "awesome-llm-books",
-      "stars": 2453,
+      "stars": 2454,
       "topics": [
         "awesome-list",
         "books",
